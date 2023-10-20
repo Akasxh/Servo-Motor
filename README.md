@@ -1,11 +1,20 @@
 # Servo-Motor
 
-# Wokwi Library List
 
-# See https://docs.wokwi.com/guides/libraries
 
-# Automatically added based on includes:
+website: wokwiki.com
 
-Servo
+1. goto website
 
-SAMD_ISR_Servo
+2. paste the code file.
+
+3. paste the diagram.json in the diagrom.json tab in wokwiki
+
+4. Select SAMD_ISR_Servo before simulating.
+
+![image](https://github.com/last-kenpachi/Servo-Motor/assets/115539225/c90c791b-6eb4-417a-bce8-5af36d316f59)
+
+
+
+
+
